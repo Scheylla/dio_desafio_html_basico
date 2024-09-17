@@ -1,0 +1,89 @@
+body 
+{
+    background-color: #343434;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-family: "Abel", sans-serif;
+}
+
+/* Títulos */
+
+h1, h2, h3, hr
+{
+    color: #FF97A0;
+}
+
+li, blockquote, p, a
+{
+    color: white;
+}
+
+h1 
+{
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+
+h2
+{
+    font-size: 25px;
+    font-weight: lighter;
+}
+
+h3
+{
+    font-size: 20px;
+    font-weight: lighter;
+    text-align: justify;
+}
+
+/* Citação */
+
+blockquote
+{
+    font-size: 20px;
+    font-style: normal;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+/* Parágrafos e links*/
+p, a, ul, ol
+{
+    font-size: 20px;
+    font-weight: 300;
+}
+
+/* Separadores */
+
+hr
+{
+    width: 100%;
+    border: dashed;
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+
+/* Listas */
+
+li
+{
+    line-height: 210%;
+}
+
+/* Destaque */
+mark 
+{
+    background-color: #FF97A0;
+    color: #343434;
+}
+
+
+/* Paddings */
+td
+{
+    padding-top:3%;
+    padding-bottom: 3%;
+}
+
